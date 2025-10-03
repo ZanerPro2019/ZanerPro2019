@@ -31,3 +31,5 @@ if a = "Хорошее настроение":
   print("Отлично")
 else:
   break
+
+Sigma
